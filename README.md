@@ -3,5 +3,4 @@
 Je suis JOHAN KAKOU, doté originellement d'une formation en géologie, chimie, biologie et maintenant élève ingénieur statisticien économiste. 
 je suis aussi passioné de science, en particulier celle des DONNEES.
 ## Mes équations préférées:
-$$ \beta = (X'X)^{-1}X'Y $$
-$$ PV=nRT $$
+$$\beta = (X'X)^{-1}X'Y$$ et $$PV=nRT$$
